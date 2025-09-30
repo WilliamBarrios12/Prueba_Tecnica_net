@@ -77,5 +77,6 @@ Prueba_Tecnica_net.sln
 👨‍💻 Desarrollado por
 
 William Barrios Rivera
+
 Estudiante de Ingeniería de Sistemas
 ---
